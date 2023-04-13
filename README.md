@@ -1,4 +1,4 @@
-# Experiment-4---#Implementation of Kalman Filter
+# Experiment-4--Implementation of Kalman Filter
 
 ## AIM
 To Construct a Python Code to implement the Kalman filter to predict the position and velocity of an object.
